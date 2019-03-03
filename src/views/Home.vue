@@ -17,12 +17,12 @@
 	    	<div class="col">
 	    		<code>
 	    			<ul>
-	    				<li>GET /compaines/ </li>
-	    				<li>POST /compaines/</li>
-	    				<li>PUT /compaines/{id}/</li>
-	    				<li>GET /compaines/{id}/bills/</li>
-	    				<li>POST /comapines/{id}/bills/</li>
-	    				<li>PUT /comapines/{id}/bills/{id}/</li>
+	    				<li>GET /companies/ </li>
+	    				<li>POST /companies/</li>
+	    				<li>PUT /companies/{id}/</li>
+	    				<li>GET /companies/{id}/bills/</li>
+	    				<li>POST /companies/{id}/bills/</li>
+	    				<li>PUT /companies/{id}/bills/{id}/</li>
 	    			</ul>
 	    		</code>
 	    	</div>
